@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --font-sans: var(--font-geist-sans);
+}
+
+body {
+  font-family: var(--font-sans), "Hiragino Kaku Gothic ProN", "Noto Sans JP",
+    sans-serif;
+}
